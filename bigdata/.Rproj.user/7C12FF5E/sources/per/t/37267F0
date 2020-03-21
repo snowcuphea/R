@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584774376667.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4064486288",
+    "id" : "37267F0",
+    "lastKnownWriteTime" : 1584781196,
+    "last_content_update" : 1584781196777,
+    "path" : "C:/iot/work/RWork/bigdata/regex_exam.R",
+    "project_path" : "regex_exam.R",
+    "properties" : {
+        "cursorPosition" : "24,23",
+        "scrollLine" : "7",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

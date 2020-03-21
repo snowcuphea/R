@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584663677985.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "377854574",
+    "id" : "6EF8FB5F",
+    "lastKnownWriteTime" : 1584664576,
+    "last_content_update" : 1584664576155,
+    "path" : "C:/iot/work/RWork/basic/csv_exam_result_teacher.R",
+    "project_path" : "csv_exam_result_teacher.R",
+    "properties" : {
+        "cursorPosition" : "10,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
