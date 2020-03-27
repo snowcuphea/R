@@ -20,6 +20,7 @@ url_data[200]
 
 #### 데이터 필터링 : title ####
 # 1. str_detect(패턴을 검사할 문자열,패턴)를 이용해서 웹페이지 전체에서 필요한 데이터만 먼저 추출 
+# str_detect : 패턴일치하는지 여부 검사
 filter_data <- url_data[str_detect(url_data,"subject_fixed")]
 
 # 2. 추출한 데이터 전체에서 내가 필요한 문자열만 추출
